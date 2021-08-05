@@ -1,0 +1,2 @@
+- Related User Story: https://ooti-projects.win.tue.nl/gitlab/st-c2019/esa/video-sentimental-analysis/-/issues/8
+- Related Document: https://bit.ly/3dAOSoM 

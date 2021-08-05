@@ -1,0 +1,15 @@
+.idea
+
+.ipybb_checkpoints
+.h5
+*/.ipynb_checkpoints/*
+
+data/*
+models/*
+bin/*
+lib/*
+pyvenv.cfg
+/prod_data
+/prod_models
+*.pyc
+*/*.pyc
